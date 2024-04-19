@@ -3,6 +3,6 @@ public class Pro1 {
    System.out.println("PATEROS");
    System.out.println("TECHNOLOGICAL");
    System.out.println("COLLEGE");
-   System.out.println("");
+   System.out.println("COURSE");
 }
 }
